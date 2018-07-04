@@ -39,8 +39,8 @@ int main()
   //  char *videofile="rtsp://admin:ak123456@21.192.104.105:554/h264/ch1/sub/av_stream";
       //  char *videofile="rtsp://admin:admin12345@21.192.104.106:554/video1";
     socketinit();
-      char *videofile="/home/liquan/Videos/01.mp4";
-
+     // char *videofile="/home/liquan/Videos/01.mp4";
+    char *videofile="/home/liquan/Videos/01.mp4";
 
     //char *videofile = "/home/userver/darknet/51.avi";//air
     // Tracker results
